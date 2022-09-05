@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsPictureBox", "WinFormsPictureBox\WinFormsPictureBox.csproj", "{A7F564EF-A14B-42D4-96A6-B28DCD3C24FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7F564EF-A14B-42D4-96A6-B28DCD3C24FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F564EF-A14B-42D4-96A6-B28DCD3C24FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F564EF-A14B-42D4-96A6-B28DCD3C24FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F564EF-A14B-42D4-96A6-B28DCD3C24FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22948C88-3FC0-4840-A409-12CC7AC8B015}
+	EndGlobalSection
+EndGlobal
